@@ -63,5 +63,5 @@ This is a [link](https://neel-basu.github.io/CSE110/) to this page.
 
 Here is a task list
 
-[x] Completed Task
-[ ] Uncompleted Task
+- [x] Completed Task
+- [ ] Uncompleted Task

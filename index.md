@@ -2,6 +2,12 @@
 
 Hi, I'm Neel and I am a second year CS major in Marshall College. Here are the core Markdown constructs outlined in Lab 1.
 
+## Pictures
+
+Here is a cute dog I found:
+
+![Dog](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*)
+
 ## Styling Text
 
 There are a couple of ways to style text in Markdown.
@@ -57,5 +63,5 @@ This is a [link](https://neel-basu.github.io/CSE110/) to this page.
 
 Here is a task list
 
-- [x] Completed Task
-- [ ] Uncompleted Task
+[x] Completed Task
+[ ] Uncompleted Task
